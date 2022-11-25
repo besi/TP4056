@@ -15,7 +15,7 @@
     (symbol "TP4056_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -6.35)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "TP4056_1_1"
