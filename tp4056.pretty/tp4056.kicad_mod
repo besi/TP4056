@@ -72,7 +72,7 @@
   (pad "5" thru_hole oval (at 11.9 -3.69) (size 3.5 2.5) (drill 1) (layers *.Cu *.Mask) (tstamp 0190a3aa-313e-4c57-9b44-725736ac5d6a))
   (pad "6" thru_hole oval (at 11.9 3.91) (size 3.5 2.5) (drill 1) (layers *.Cu *.Mask) (tstamp 5ef2f5d9-168e-4cff-a3a7-4f0d34ff0a28))
   (model "${KIPRJMOD}/lib/tp4056/tp4056.step"
-    (offset (xyz 13 -9 0))
+    (offset (xyz 0.2 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
